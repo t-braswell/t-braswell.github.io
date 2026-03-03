@@ -6,7 +6,9 @@ title: Homepage
 menus: header
 permalink: /
 ---
-{{header.menu}}
+{% for item in site.menus.header %}
+- [{{ item.title }}]({{ item.url }})
+{% endfor %}
 # [about]({{site.baseurl}}/about)
 
 # [cv]({{site.baseurl}}/downloads/2026_02_24_resume.pdf)

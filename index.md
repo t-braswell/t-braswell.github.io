@@ -7,6 +7,6 @@ menus: header
 permalink: /
 ---
 {% for item in site.data.navigation.header %}
-- [{{ item.title }}]({{ item.url }})
+- [{{ item.title }}]({{site.baseurl}}{{ item.url }})
 {% endfor %}
 

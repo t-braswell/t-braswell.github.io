@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+[about](https://t-braswell.github.io/about)
+
+[cv](https://t-braswell.github.io/cv)
+
+[code](https://t-braswell.github.io/code)

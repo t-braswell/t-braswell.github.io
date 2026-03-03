@@ -1,6 +1,7 @@
 ---
 title: Code
 permalink: /code
+menus: header
 ---
 
 [**Julia Set Visualizer:**](https://github.com/t-braswell/GraphingJuliaSets)

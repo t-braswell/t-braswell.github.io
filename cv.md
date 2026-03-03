@@ -1,4 +1,4 @@
 ---
-title:CV
-permalink:/cv
+title: CV
+permalink: /cv
 ---

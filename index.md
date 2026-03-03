@@ -7,8 +7,8 @@ menus: header
 permalink: /
 ---
 
-[about](https://t-braswell.github.io/about)
+[about]({{site.baseurl}}/about)
 
-[cv](https://t-braswell.github.io/cv)
+[cv]({{site.baseurl}}/downloads/2026_02_24_resume.pdf)
 
-[code](https://t-braswell.github.io/code)
+[code]({{site.baseur}}code)

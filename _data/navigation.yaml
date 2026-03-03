@@ -1,0 +1,9 @@
+header:
+  - title: Home
+    url: /
+  - title: About
+    url: /
+  - title: Code
+    url: /code/
+  - title: cv
+    url: /downloads/2026_02_04_resume.pdf

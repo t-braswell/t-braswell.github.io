@@ -31,7 +31,6 @@ remote_theme: pages-themes/slate
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-menus
   - jekyll-jupyter-notebook 
 
 # Exclude from processing.

@@ -9,8 +9,4 @@ permalink: /
 {% for item in site.data.navigation.header %}
 - [{{ item.title }}]({{ item.url }})
 {% endfor %}
-# [about]({{site.baseurl}}/about)
 
-# [cv]({{site.baseurl}}/downloads/2026_02_24_resume.pdf)
-
-# [code]({{site.baseur}}code)

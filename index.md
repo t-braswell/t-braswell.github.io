@@ -7,8 +7,8 @@ menus: header
 permalink: /
 ---
 {{header.menu}}
-[about]({{site.baseurl}}/about)
+# [about]({{site.baseurl}}/about)
 
-[cv]({{site.baseurl}}/downloads/2026_02_24_resume.pdf)
+# [cv]({{site.baseurl}}/downloads/2026_02_24_resume.pdf)
 
-[code]({{site.baseur}}code)
+# [code]({{site.baseur}}code)

@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  t-braswell
 
 # Build settings
+#TODO: figure out why remote-theme isnt working
 remote_theme: pages-themes/slate
 plugins:
   - jekyll-feed

@@ -6,6 +6,9 @@ source "https://rubygems.org"
 
 gem "jekyll-jupyter-notebook"
 
-group :jekyll_plugins do
-gem "jekyll-pdf-embed"
+#group :jekyll_plugins do
+#gem "jekyll-pdf-embed"
+#end
+source "https://rubygems.pkg.github.com/mihajlonesic" do
+  gem "jekyll-pdf-embed", "1.1.1"
 end

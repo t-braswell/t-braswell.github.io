@@ -7,4 +7,5 @@ source "https://rubygems.org"
 gem "jekyll-jupyter-notebook"
 
 group :jekyll_plugins do
+gem "jekyll-pdf-embed"
 end

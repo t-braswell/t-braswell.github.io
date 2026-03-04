@@ -1,8 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Homepage
-# layout: home doesnt work
 menus: header
 permalink: /
 ---
@@ -10,3 +7,7 @@ permalink: /
 - [{{ item.title }}]({{site.baseurl}}{{ item.url }})
 {% endfor %}
 
+# Welcome!
+I am a second year student MSc. student at in Applied Mathematics at San Diego State University. I split my focus between developing an understanding of quantitative methods for industry and research, and communicating core concepts more clearly as a math educator.
+
+This site functions as a summary of my teaching experience, and research results and interests. Future usage for the site may include blogging and student resources

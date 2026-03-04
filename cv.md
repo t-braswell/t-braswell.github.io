@@ -8,4 +8,4 @@ permalink: /cv
 {% endfor %}
 
 
-{ {% pdf "/downloads/2026_02_24_resume.pdf" %}}
+{% pdf "/downloads/2026_02_24_resume.pdf" %}

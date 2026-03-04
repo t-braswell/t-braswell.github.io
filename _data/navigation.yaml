@@ -3,8 +3,8 @@ header:
     url: /
   - title: About
     url: /about
-  - title: cv
-    url: /downloads/2026_02_04_resume.pdf
+  - title: CV
+    url: /cv
   - title: Taught
     url: /course-records
   - title: Code

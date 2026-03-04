@@ -7,5 +7,4 @@ permalink: /cv
 - [{{ item.title }}]({{ item.url }})
 {% endfor %}
 
-
-{% pdf "/downloads/2026_02_24_resume.pdf" %}
+ [cv](https://t-braswell.github.io/downloads/2026_02_24_resume.pdf)

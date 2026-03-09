@@ -4,12 +4,10 @@ header:
   - title: About
     url: /about
   - title: CV
-    url: /cv
+    url: /downloads/2026_02_24_resume.pdf
   - title: Taught
     url: /course-records
   - title: Code
     url: /code
   - title: Research
     url: /research
-  - title: CV2
-    url: /downloads/2026_02_24_resume.pdf

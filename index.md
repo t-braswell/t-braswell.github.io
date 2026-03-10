@@ -1,7 +1,7 @@
 ---
 title: Homepage
-menus: header
 permalink: /
+layout: default
 ---
 
 # Welcome!

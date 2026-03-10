@@ -3,9 +3,6 @@ title: Code
 permalink: /code
 menus: header
 ---
-{% for item in site.data.navigation.header %}
-- [{{ item.title }}]({{ item.url }})
-{% endfor %}
 
 # [**Julia Set Visualizer:**](https://github.com/t-braswell/GraphingJuliaSets)
 a JDK-based GUI app for generating Julia sets for particular values of z=x+iy

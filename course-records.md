@@ -3,6 +3,9 @@ title: course-records
 permalink: /course-records
 ---
 
+ {% for item in site.code %}
+  {{ item.title }}
+{% endfor %}
 # Previous courses taught:
 
 ## 2025-2026

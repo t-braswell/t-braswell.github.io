@@ -3,6 +3,9 @@ title: About
 permalink: /about
 menus: header
 ---
+ {% for item in site.code %}
+  {{ item.title }}
+{% endfor %}
 
 **ABOUT**:
 

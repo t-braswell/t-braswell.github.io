@@ -3,7 +3,7 @@ title: Research
 url: /research
 ---
 # Research
-{% for item in site.data.navigation.header %}- [{{ item.title }}]({{site.baseurl}}{{ item.url }}){% endfor %}
+{% for item in site.data.navigation.header %}\- [{{ item.title }}]({{site.baseurl}}{{ item.url }}){% endfor %}
 
 I am currently a member of the [Sethuraman Lab](https://www.sethuramanlab.com/) at SDSU, working under [Arun Sethuraman](https://biology.sdsu.edu/people/arun-sethuraman/) on computational biology and bioinformatics. Currently, I am attempting to refine the methods established by Tamsen Dunn's [specKS](https://github.com/tamsen/specks) simulator for polyploid evolution, by using Gaussian Mixture models rather than naive RMS error reduction for comparing simulation results with empirical data.
 

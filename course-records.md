@@ -2,7 +2,7 @@
 title: course-records
 permalink: /course-records
 ---
-{% for item in site.data.navigation.header %} - [{{ item.title }}]({{site.baseurl}}{{ item.url }}){% endfor %}
+{% for item in site.data.navigation.header %} \- [{{ item.title }}]({{site.baseurl}}{{ item.url }}){% endfor %}
 # Previous courses taught:
 
 ## 2025-2026

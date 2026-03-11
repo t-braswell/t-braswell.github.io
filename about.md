@@ -3,9 +3,7 @@ title: About
 permalink: /about
 menus: header
 ---
-{% for item in site.data.navigation.header %}
-- [{{ item.title }}]({{site.baseurl}}{{ item.url }})
-{% endfor %}
+{% for item in site.data.navigation.header %} - [{{ item.title }}]({{site.baseurl}}{{ item.url }}) {% endfor %}
 
 **ABOUT**:
 

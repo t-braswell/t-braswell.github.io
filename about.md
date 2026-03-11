@@ -3,8 +3,11 @@ title: About
 permalink: /about
 menus: header
 ---
+ {% for item in site.data.navigation.header %}
+  {{ item.title }}
+{% endfor %}
  
- {% for item in site.code %}
+ {% for item in navigation.code %}
   {{ item.title }}
 {% endfor %}
 

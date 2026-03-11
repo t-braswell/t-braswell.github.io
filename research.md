@@ -3,6 +3,9 @@ title: Research
 url: /research
 ---
 
+ {% for item in site.data.navigation.header %}
+  {{ item.title }}
+{% endfor %}
  {% for item in site.code %}
   {{ item.title }}
 {% endfor %}

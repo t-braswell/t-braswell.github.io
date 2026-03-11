@@ -3,6 +3,9 @@ title: Code
 permalink: /code
 menus: header
 ---
+ {% for item in site.data.navigation.header %}
+  {{ item.title }}
+{% endfor %}
  
  {% for item in site.code %}
   {{ item.title }}

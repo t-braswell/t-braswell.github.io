@@ -21,12 +21,13 @@ permalink: /course-records
 + educational problems at scale: cheating, student deaths, and other
   "rare" events at scale of 5 thousand students
 + balancing multiple supervisors as TA (professor of record, Calculus 1 coordinator, etc).
-
 ## 2023-2024
 + Advanced Precalulus, Russian School of Mathematics
 + Geometry 2, Russian School of Mathematics
 + Honors Algebra, Russian School of Mathematics
 ### Challenges, Takeways, and lessons learned:
++ took on extra opportunities as substitute teacher - worked on improving lesson planning
++ transitioning away from Covid- era remote teaching protocols
 
 ## 2022-2023
 + Geometry 2, Russian School of Mathematics
@@ -34,7 +35,7 @@ permalink: /course-records
 + 2 sections of Advanced Prealgebra, Russian School of Mathematics
 + Summer session: embedded TA for Statistics at Miramar Colleges
 ### Challenges, Takeways, and lessons learned:
-+ taking over 5th grade course after death of Instructor: balance educational
++ taking over 5th grade course after death of instructor: balance educational
   expectations with space for students to grieve; professionalism of communication.
 + antiracism/cultural inclusivity as classroom management: Used discussions of history
   of mathematics (& broad historical context) _as_ a way to prevent racist attitudes 
@@ -45,6 +46,6 @@ permalink: /course-records
 + Prealgebra, Russian School of Mathematics
 + Algebra, Russian School of Mathematics
 ### Challenges, Takeways, and lessons learned:
-+ Learning how to teach Middle school students; treating them differently from undergrads 
-  in TA sections
++ learning how to teach Middle school students; treating them differently from undergrads in TA sections
 + learning basics of mathematics instruction rather than social sciences instruction
++ negotiating covid/social distancing protocol and remote teaching technology

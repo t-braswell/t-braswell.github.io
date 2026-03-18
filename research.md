@@ -9,4 +9,4 @@ I am currently a member of the [Sethuraman Lab](https://www.sethuramanlab.com/){
 
 I am also doing thesis research with [Dr. Christopher Curtis](https://cwcurtis.github.io/){:target="_blank"}  on machine learning and link prediction on bipartite graphs. this is an extension of Maryam Sabagh's [Master's thesis on the subject](https://sciety.org/articles/activity/10.32388/074o28 ){:target="_blank"} , looking for ways to better capture local graph structure for graph neural networks.
 
-Past research and projects for classes include work on [Convergence speeds of optimization algorithms](/downloads/693a_final_paper.pdf) {:target="_blank"}  and [Polynomial division from a Fourier Perspective](/downloads/668_presentation.pdf){:target="_blank"}.
+Past research and projects for classes include work on [Convergence speeds of optimization algorithms](/downloads/693a_final_paper.pdf){:target="_blank"}  and [Polynomial division from a Fourier Perspective](/downloads/668_presentation.pdf){:target="_blank"}.

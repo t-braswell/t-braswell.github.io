@@ -19,8 +19,9 @@ permalink: /course-records
 + Calculus 1, TA, fall semester (Professor Colin Macgrane)
 ### Challenges, Takeways, and lessons learned:
 + educational problems at scale: cheating, student deaths, and other
-  "rare" events at scale of 5 thousand students
+  "rare" events at scale of five thousand students
 + balancing multiple supervisors as TA (professor of record, Calculus 1 coordinator, etc).
+
 ## 2023-2024
 + Advanced Precalulus, Russian School of Mathematics
 + Geometry 2, Russian School of Mathematics

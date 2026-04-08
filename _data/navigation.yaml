@@ -11,3 +11,6 @@ header:
     url: /code
   - title: Research
     url: /research
+  -title: Blog
+    url: /blog
+    

@@ -1,5 +1,6 @@
 ---
 author: Tara
+title: Neural Networks, Explained at Various Levels of Simplicity
 ---
 
 # Table of Contents

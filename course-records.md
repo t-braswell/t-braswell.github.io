@@ -8,7 +8,7 @@ permalink: /course-records
 | 2025-2026  | Challenges, Takeways, and lessons learned|
 --------------------------------------------------------------
 |+ Calculus 3, TA, fall semester (Professors Bo-wen Shen & Hiren Maharaj)| + Planned my own TA activities without coordinator:|
-|+ Caclulus 3, TA, spring semester (in progress)| + Gave 2 labs per week, collected one per week, no due dates
+|+ Caclulus 3, TA, spring semester (in progress)| + Gave 2 labs per week, collected one per week, no due dates|
 | |+ Prioritizing labs and TA activities as _resources_, not deliverable assignments 
 
 |2024-2025|  Challenges, Takeways, and lessons learned|
@@ -29,7 +29,7 @@ permalink: /course-records
 |+ Honors 5th grade, Russian School of mathematics|  expectations with space for students to grieve; professionalism of communication.|
 |+ 2 sections of Advanced Prealgebra, Russian School of Mathematics|+ Antiracism/cultural inclusivity as classroom management: Used discussions of history|
 |+ Summer session: embedded TA for Statistics at Miramar Colleges|  of mathematics (& broad historical context) _as_ a way to prevent racist attitudes |
-||  in the classroom|
+|  |  in the classroom|
 
 | 2021-2022 |  Challenges, Takeways, and lessons learned |
 --------------------------------------------------------------

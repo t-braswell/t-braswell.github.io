@@ -1,4 +1,6 @@
-
+---
+title: Neural Networks, Explained at Various Levels of Simplicity
+---
 # Table of Contents
 
 1.  [Neural Networks, Explained at Various Levels of Simplicity](#org5ee5700)

@@ -6,5 +6,5 @@ url: /blog
 # BLOG
 
 {% for post in site.posts %} 
-+  {{post.title}}
++  [{{post.title}}]({{post.url}})
 {% endfor %}

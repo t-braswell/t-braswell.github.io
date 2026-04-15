@@ -13,9 +13,9 @@ permalink: /course-records
 
 |2024-2025|   Challenges, Takeways, and Lessons Learned|
 |--------------|---------------------------------------------|
-|+ Calculus 1, TA, accelerated summer session (Professors Renee Thompson & Colin Macgrane)| + Educational problems at scale: cheating, student deaths, and other|
-|+ Calculus 2, TA, spring semester (Professor Mary Pilgrim)| "rare" events at scale of five thousand students|
-|+ Calculus 1, TA, fall semester (Professor Colin Macgrane)| + Balancing multiple supervisors as TA (professor of record, Calculus 1 coordinator, etc).|
+|+ Calculus 1, TA, accelerated summer session (Professors Renee Thompson & Colin Macgrane)| + Educational problems at scale: cheating, student deaths, and other "rare" events at scale of five thousand students|
+|+ Calculus 2, TA, spring semester (Professor Mary Pilgrim)| + Balancing multiple supervisors as TA (professor of record, Calculus 1 coordinator, etc).|
+|+ Calculus 1, TA, fall semester (Professor Colin Macgrane)||
 
 |2023-2024|   Challenges, Takeways, and Lessons Learned|
 |--------------|---------------------------------------------|
@@ -27,9 +27,8 @@ permalink: /course-records
 |--------------|---------------------------------------------|
 |+ Geometry 2, Russian School of Mathematics|+ Taking over 5th grade course after death of instructor: balance educational|
 |+ Honors 5th grade, Russian School of mathematics|  expectations with space for students to grieve; professionalism of communication.|
-|+ 2 sections of Advanced Prealgebra, Russian School of Mathematics|+ Antiracism/cultural inclusivity as classroom management: Used discussions of history|
-|+ Summer session: embedded TA for Statistics at Miramar Colleges|  of mathematics (& broad historical context) _as_ a way to prevent racist attitudes |
-||  in the classroom|
+|+ 2 sections of Advanced Prealgebra, Russian School of Mathematics|+ Antiracism/cultural inclusivity as classroom management: Used discussions of history of mathematics (& broad historical context) _as_ a way to prevent racist attitudes in the classroom|
+|+ Summer session: embedded TA for Statistics at Miramar Colleges| 
 
 |2021-2022 |   Challenges, Takeways, and Lessons Learned |
 |--------------|---------------------------------------------|

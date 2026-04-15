@@ -1,5 +1,6 @@
 ---
-title: Neural Networks, Explained at Various Levels of Simplicity
+layout: post
+title: "Neural Networks, Explained at Various Levels of Simplicity"
 ---
 # Table of Contents
 

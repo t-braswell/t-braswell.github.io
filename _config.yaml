@@ -31,8 +31,8 @@ remote_theme: pages-themes/slate
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-jupyter-notebook 
-  - jekyll-pdf-embed
+#  - jekyll-jupyter-notebook 
+#  - jekyll-pdf-embed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

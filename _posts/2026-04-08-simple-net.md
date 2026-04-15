@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Neural Networks, Explained at Various Levels of Simplicity"
 ---
 
